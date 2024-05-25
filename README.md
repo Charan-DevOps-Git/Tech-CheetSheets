@@ -10,6 +10,8 @@ This repository includes cheat sheets for the following areas:
   - HTML
   - CSS
   - JavaScript
+  - Bootstrap
+  - jQuery
   - Angular
 
 - **Java Full-Stack Development**
